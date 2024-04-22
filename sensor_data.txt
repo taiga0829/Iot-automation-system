@@ -1,0 +1,32 @@
+[2023-11-06 16:14:34] light001: turned on
+[2023-11-06 16:14:34] light001: light duration is set to 20 (sec)
+[2023-11-06 16:14:34] light001: turned off
+[2023-11-06 16:14:34] thermostat001: turned on
+[2023-11-06 16:14:34] thermostat001: range is set from 10°C to 26°C
+[2023-11-06 16:14:34] camera001: turned on
+[2023-11-06 16:14:34] camera001: status is set to idle (mode)
+[2023-11-06 16:14:34] thermostat001: temperature is beyond limits
+[2023-11-06 16:14:34] camera001: detect motion
+[2023-11-06 16:14:34] light001: turned on
+[2023-11-06 16:14:34] light001: Current brightness: 5.00
+[2023-11-06 16:14:34] light001: Current brightness: 10.00
+[2023-11-06 16:14:34] light001: Current brightness: 15.00
+[2023-11-06 16:14:34] light001: Current brightness: 20.00
+[2023-11-06 16:14:34] light001: Current brightness: 25.00
+[2023-11-06 16:14:34] light001: Current brightness: 30.00
+[2023-11-06 16:14:34] light001: Current brightness: 35.00
+[2023-11-06 16:14:34] light001: Current brightness: 40.00
+[2023-11-06 16:14:34] light001: Current brightness: 45.00
+[2023-11-06 16:14:34] light001: Current brightness: 50.00
+[2023-11-06 16:14:34] light001: Current brightness: 55.00
+[2023-11-06 16:14:34] light001: Current brightness: 60.00
+[2023-11-06 16:14:34] light001: Current brightness: 65.00
+[2023-11-06 16:14:34] light001: Current brightness: 70.00
+[2023-11-06 16:14:34] light001: Current brightness: 75.00
+[2023-11-06 16:14:34] light001: Current brightness: 80.00
+[2023-11-06 16:14:34] light001: Current brightness: 85.00
+[2023-11-06 16:14:34] light001: Current brightness: 90.00
+[2023-11-06 16:14:34] light001: Current brightness: 95.00
+[2023-11-06 16:14:34] light001: Current brightness: 100.00
+[2023-11-06 16:14:34] camera001: not detect motion
+[2023-11-06 16:14:34] light001: turned off
